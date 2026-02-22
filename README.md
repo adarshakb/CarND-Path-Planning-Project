@@ -138,3 +138,17 @@ still be compilable with cmake and make./
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+
+---
+
+## Course Attribution
+
+This repository was created as part of the **Udacity Self-Driving Car Nanodegree** coursework.
+Some project structure, assets, instructions, and simulator/starter components may come from Udacity course materials.
+
+What is original here is my implementation/work completed for the project tasks.
+
+## Educational Use Note
+
+This project is shared as a portfolio/learning artifact.
+If you are currently enrolled in a course using similar assignments, follow your course honor code and submission rules.
